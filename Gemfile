@@ -67,3 +67,5 @@ end
 
 # Extra gems
 gem 'faker'
+
+gem 'simple_form'
